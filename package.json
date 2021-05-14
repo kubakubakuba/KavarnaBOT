@@ -11,8 +11,17 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Jakub Pelc",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubakubakuba/KavarnaBOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kubakubakuba/KavarnaBOT/issues"
+  },
+  "homepage": "https://github.com/kubakubakuba/KavarnaBOT#readme"
 }
